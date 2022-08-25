@@ -1,0 +1,42 @@
+bootstrap dispone de una amplia gama de clases de utilidad de márgenes y padding responsivos. Funcionan para todos los breakpoints:
+
+xs (<=576px), sm (>=576px), md (>=768px), lg (>=992px) o xl (>=1200px))
+
+Las clases se utilizan en el formato:
+
+{property}{sides}-{size} para xs & {propiedad}{lados}-{breakpoint}-{tamaño} para sm, md, lg y xl.
+
+m - establece el margen
+
+p - establece el relleno
+
+t - establece el margen superior o el relleno superior
+
+b - establece el margen-inferior o el relleno-inferior
+
+l - establece el margen izquierdo o el relleno izquierdo
+
+r - establece el margen derecho o el relleno derecho
+
+x - establece tanto el padding-izquierdo como el padding-derecho o el margen-izquierdo y el margen-derecho
+
+y - establece tanto el padding-top como el padding-bottom o margin-top y margin-bottom
+
+en blanco - establece un margen o relleno en los 4 lados del elemento
+
+0 - conjuntos margen o acolchado a 0
+
+1 - conjuntos margen o acolchado a .25rem (4px si el tamaño de la fuente es 16px)
+
+2 - conjuntos margen o acolchado a .5rem (8px si el tamaño de la fuente es 16px)
+
+3 - conjuntos margen o acolchado a 1rem (16px si el tamaño de la fuente es 16px)
+
+4 - conjuntos margen o acolchado a 1,5rem (24px si el tamaño de la fuente es 16px)
+
+5 - conjuntos margen o acolchado a 3rem (48px si el tamaño de la fuente es 16px)
+
+auto - fija el margen en automático
+
+
+Fuente: https://www.iteramos.com/pregunta/86994/que-es-classquotmb-0quot-en-bootstrap-4
